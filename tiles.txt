@@ -1,0 +1,34 @@
+human-1
+human-2
+human-3
+human-4
+human-5
+human-6
+human-7
+human-8
+human-9
+dots-1
+dots-2
+dots-3
+dots-4
+dots-5
+dots-6
+dots-7
+dots-8
+dots-9
+bamboo-1
+bamboo-2
+bamboo-3
+bamboo-4
+bamboo-5
+bamboo-6
+bamboo-7
+bamboo-8
+bamboo-9
+east
+west
+north
+south
+Dragon Red
+Dragon Green
+Dragon White
